@@ -41,6 +41,6 @@ function fibonacci_set (max) {
         return [1, 1];
     }
 }
-
+   
 
 console.log(sum(filter(even,fibonacci_set(4000000))));
